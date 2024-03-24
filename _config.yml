@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hailun Ding"
+title                    : "Jinsong Mao"
 title_separator          : "-"
-name                     : &name "Hailun Ding"
-description              : &description "PhD student in CS@Rutgers"
-url                      : https://dhl123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jinsong Mao"
+description              : &description "PhD student at UMass CICS"
+url                      : https://4ar0nma0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dhl123.github.io"
+repository               : "4ar0nma0.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hailun Ding"
-  avatar           : #"photo_hq.jpg"
-  bio              : "PhD student in CS@Rutgers"
-  location         : "Piscataway, NJ 08854"
+  name             : "Jinsong Mao"
+  avatar           : "photo_hq.jpg"
+  bio              : "PhD student at UMass Amherst"
+  location         : "Amherst, MA 01002"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Uz3FzkoAAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=7onkDXIAAAAJ&hl=en"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dhl123"
+  github           : #"dhl123"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0007-0663-3043"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
