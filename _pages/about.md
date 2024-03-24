@@ -15,6 +15,11 @@ I'm most interested in <b>systems</b>. More specifically, I am interested in:
   * Emerging techniques for systems (e.g. [eBPF](https://ebpf.io)).
   * Machine learning for systems.
 
+Contact: 
+```
+jinsongmao[replace with @]umass[replace with .]edu
+```
+
 News
 ======
 * [2024-03] Our paper is accepted by ASPLOS 2024.
