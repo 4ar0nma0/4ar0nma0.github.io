@@ -32,8 +32,8 @@ Architectural Support for Programming Languages and Operating Systems, 2024 (**A
 
 Teaching
 ======
-* CS214, Rutgers University, 2023 Spring
-* CS314, Rutgers University, 2022 Fall
+* TA, CS214, Rutgers University, 2023 Spring
+* TA, CS314, Rutgers University, 2022 Fall
 
 Award
 ======
