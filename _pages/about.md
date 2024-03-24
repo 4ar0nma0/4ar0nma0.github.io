@@ -8,7 +8,7 @@ redirect_from:
 ---
 About Me
 ======
-I am a PhD student from [UMass CICS](https://www.cics.umass.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
+I am a PhD student from [UMass CICS](https://www.cics.umass.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). I earned my Master's degree and Bachelor's degree from Xi'an Jiaotong University. I was one of [Special Class for the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young).
 
 I'm most interested in <b>systems</b>. More specifically, I am interested in:
   * System security.
