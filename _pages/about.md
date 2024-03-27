@@ -26,9 +26,10 @@ Publication
 ======
 
 
-* [Merlin: Multi-tier Optimization of eBPF Code for Performance and Compactness](/files/merlin.pdf)  
+* [Merlin: Multi-tier Optimization of eBPF Code for Performance and Compactness](https://doi.org/10.1145/3620666.3651387)  
 **Jinsong Mao**, Hailun Ding, Juan Zhai, Shiqing Ma  
 Architectural Support for Programming Languages and Operating Systems, 2024 (**ASPLOS 2024**)
+[[code](https://github.com/4ar0nma0/Merlin)][[pdf](./files/merlin.pdf)]
 
 Teaching
 ======
