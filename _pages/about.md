@@ -17,6 +17,8 @@ I'm most interested in <b>systems</b>. More specifically, I am interested in:
 
 Contact:  jinsongmao[replace with @]umass[replace with .]edu
 
+Collaborations are welcome.
+
 News
 ======
 * [2025-05] Qualification passed with distinction.
